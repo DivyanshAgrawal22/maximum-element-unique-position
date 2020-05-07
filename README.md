@@ -20,4 +20,4 @@ The output will be:
 [79, 78, 45, 66]
 
 The first row indicates the position of the maximum in each row. As you can see in this no position was repeated.
-The second row indicates the values at those positions.
+The second row indicates the values at these positions.
