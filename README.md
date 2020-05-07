@@ -4,14 +4,19 @@ This is a Python program to print the maximum element in each row in an array at
 Let's understand this with another example. I take a 4x4 matrix by inputting n = 4 and passing 4 values in each of the 4 rows like this...
 
 Enter the size of the matrix: 4
+
 12 34 56 79
+
 23 56 78 90
+
 31 45 77 13
+
 66 87 07 12
 
 The output will be:
 
 [3, 2, 1, 0] 
+
 [79, 78, 45, 66]
 
 The first row indicates the position of the maximum in each row. As you can see in this no position was repeated.
